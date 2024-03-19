@@ -1,4 +1,4 @@
-package com.example.thisisseoulsoul.util
+package com.example.thisisseoulsoul.view.common.navigationbar
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.*

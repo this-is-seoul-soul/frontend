@@ -1,4 +1,4 @@
-package com.example.thisisseoulsoul.util
+package com.example.thisisseoulsoul.view.common.navigationbar
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -18,7 +18,6 @@ import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.thisisseoulsoul.ui.theme.Yellow50
 import com.example.thisisseoulsoul.view.heart.HeartScreen
 import com.example.thisisseoulsoul.view.home.HomeScreen
 import com.example.thisisseoulsoul.view.map.MapScreen
@@ -35,7 +34,7 @@ fun BottomNavigationBar() {
         modifier = Modifier.fillMaxSize(),
         bottomBar = {
             NavigationBar (containerColor = Color.White){
-                BottomNavigationItem().bottomNavigationItems().forEachIndexed {index,navigationItem ->
+                BottomNavigationItem().bottomNavigationItems().forEachIndexed { index, navigationItem ->
                     NavigationBarItem(
                         selected = index == navigationSelectedItem,
                         label = {

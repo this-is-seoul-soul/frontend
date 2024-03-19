@@ -1,4 +1,4 @@
-package com.example.thisisseoulsoul.util
+package com.example.thisisseoulsoul.view.common.navigationbar
 
 sealed class Screens(val route : String) {
     object Home : Screens("home_screen")
