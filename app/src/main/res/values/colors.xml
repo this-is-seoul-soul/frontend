@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--  노란색  -->
+    <color name="yellow_50">#FFFFF2D0</color>
+    <color name="yellow_100">#FFFFE5A2</color>
+    <color name="yellow_200">#FFFFD873</color>
+    <color name="yellow_300">#FFFFCB45</color>
+    <color name="yellow_400">#FFFFBD15</color>
+    <color name="yellow_500">#FFCC9812</color>
+    <color name="yellow_600">#FF99720D</color>
+    <color name="yellow_700">#FF664C09</color>
+    <color name="yellow_800">#FF332604</color>
+    <!--  회색  -->
+    <color name="gray_50">#FFFAFAFA</color>
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_200">#FFEEEEEE</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_800">#FF424242</color>
+    <color name="gray_900">#FF212121</color>
+    <!--  빨간색  -->
+    <color name="red_50">#FFFFECEC</color>
+    <color name="red_100">#FFFFC2C2</color>
+    <color name="red_200">#FFFF9797</color>
+    <color name="red_300">#FFFF6D6D</color>
+    <color name="red_400">#FFFF4343</color>
+    <color name="red_500">#FFDD2F2F</color>
+    <color name="red_600">#FFBB1F1F</color>
+    <color name="red_700">#FF991212</color>
+    <color name="red_800">#FF770808</color>
+    <color name="red_900">#FF550101</color>
+    <!--  초록색  -->
+    <color name="green_50">#FFFFDFD6</color>
+    <color name="green_100">#FF66BB6A</color>
+    <color name="green_200">#FF2E7D32</color>
+</resources>
